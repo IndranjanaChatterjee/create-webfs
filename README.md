@@ -1,6 +1,7 @@
 # create-webfs
-
-<!-- [![npm version](https://img.shields.io/npm/v/create-webfs.svg)](https://npmjs.com/package/create-webfs) [![Downloads](https://img.shields.io/npm/dm/create-webfs.svg)](https://npmjs.com/package/create-webfs) -->
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FIndranjanaChatterjee%2Fcreate-webfs&countColor=%23dce775)
+![Contributors](https://img.shields.io/github/contributors/IndranjanaChatterjee/create-webfs?style=for-the-badge)
+[![npm version](https://img.shields.io/npm/v/create-webfs.svg)](https://npmjs.com/package/create-webfs) [![Downloads](https://img.shields.io/npm/dm/create-webfs.svg)](https://npmjs.com/package/create-webfs)
 
 create-webfs is an NPX-powered CLI tool that scaffolds a battle-tested fullstack template. It generates a React+Vite frontend (TypeScript, SWC, TailwindCSS) and a Node.js + Express backend (TypeScript or JavaScript), complete with environment modes (local, test, prod), clean architecture (routes/, models/, controllers/), and ORM support for MongoDB, MySQL, and PostgreSQL.
 
